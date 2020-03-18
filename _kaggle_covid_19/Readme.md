@@ -1,5 +1,13 @@
 
 ## Covid-19 🦜...
+- cowork
+- Jason (main python coding)
+- Take (artile ,paper, kernel sharing)
+- Jean (data-processing releated)
+
+--- 
+
+
 
 ---
 Outline: ✍️
